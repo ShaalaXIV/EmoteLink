@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "ShaalaXIV",
+    "Name": "Synastry",
+    "InternalName": "EmoteLink",
+    "AssemblyVersion": "1.0.44.0",
+    "Description": "A Penumbra animation launcher for organizing, pairing, and synchronizing multi-actor animations.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "Paired animation sync for Penumbra.",
+    "RepoUrl": "https://github.com/ShaalaXIV/Synastry",
+    "IconUrl": "https://aethercast.org/repo/images/synastry.png",
+    "Tags": [ "penumbra", "animation", "emote", "sync" ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/ShaalaXIV/Synastry/releases/download/v1.0.44/Synastry-1.0.44.zip",
+    "DownloadLinkUpdate": "https://github.com/ShaalaXIV/Synastry/releases/download/v1.0.44/Synastry-1.0.44.zip",
+    "Changelog": "EmoteLink is now Synastry. The repository has moved to https://aethercast.org/repo, and existing settings remain compatible.",
+    "LastUpdate": "1786127622"
+  }
+]
